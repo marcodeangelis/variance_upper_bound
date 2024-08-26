@@ -9,7 +9,7 @@ The data needed to compute the population variance must have shape (n,2), where 
 Dependencies
 
 * Numpy
-* Scipy (optional, for quadratic algorithm) 
+* Scipy (optional, for quadratic programming algorithm) 
 * Matplotlib Pyplot (optional, for plotting)
 
 To use this code just run [`compute.py`](compute.py) with the interval data of choice. Note the data must have shape `(n,2)`. 
