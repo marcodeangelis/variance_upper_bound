@@ -20,4 +20,4 @@ de Angelis, M. (2024). Sharp Polynomial Upper Bound on the Variance. In Combinin
 ```
 
 ## Reproducibility 
-`variance.py` can be used to reproduce the results of the above paper. Just run [`smps24.py`](smps24.py) or see [smps24.md](smps24.md).
+[`compute.py`](compute.py) can be used to reproduce the results of the above paper. Just run [`smps24.py`](smps24.py) or see [smps24.md](smps24.md).
